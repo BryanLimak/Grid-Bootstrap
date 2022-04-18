@@ -1,0 +1,10 @@
+
+*{
+    font-weight: bold;
+}
+
+.a{
+    transform: scale(0.95)  /* Poner espacio entre los boxes */
+}
+
+@import "node_modules/bootstrap/scss/bootstrap.scss";
